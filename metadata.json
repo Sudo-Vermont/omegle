@@ -1,0 +1,6 @@
+{
+  "name": "Stranger Chat",
+  "description": "Find and talk to random strangers instantly via text or WebRTC video and audio chat, with interest tag matching.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
